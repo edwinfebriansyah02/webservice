@@ -1,0 +1,318 @@
+﻿[
+	{
+		"Kabupaten/Kota": "KOTA SEMARANG",
+		"Terkonfirmasi": "30.32",
+		"Dirawat": "2.6030000000000002",
+		"Sembuh": "24.736999999999998",
+		"Meninggal": "2.98",
+		"Suspek": "872",
+		"Suspek Discarded": "11.215999999999999"
+	},
+	{
+		"Kabupaten/Kota": "BANYUMAS",
+		"Terkonfirmasi": "19.489000000000001",
+		"Dirawat": "2.2989999999999999",
+		"Sembuh": "16.620999999999999",
+		"Meninggal": "569",
+		"Suspek": "3.3730000000000002",
+		"Suspek Discarded": "5.2969999999999997"
+	},
+	{
+		"Kabupaten/Kota": "KUDUS",
+		"Terkonfirmasi": "16.030999999999999",
+		"Dirawat": "226",
+		"Sembuh": "14.52",
+		"Meninggal": "1.2849999999999999",
+		"Suspek": "81",
+		"Suspek Discarded": "2.6789999999999998"
+	},
+	{
+		"Kabupaten/Kota": "JEPARA",
+		"Terkonfirmasi": "15.731",
+		"Dirawat": "367",
+		"Sembuh": "14.609",
+		"Meninggal": "755",
+		"Suspek": "495",
+		"Suspek Discarded": "3.2730000000000001"
+	},
+	{
+		"Kabupaten/Kota": "KLATEN",
+		"Terkonfirmasi": "15.413",
+		"Dirawat": "2.1640000000000001",
+		"Sembuh": "12.662000000000001",
+		"Meninggal": "587",
+		"Suspek": "1.0580000000000001",
+		"Suspek Discarded": "3.9209999999999998"
+	},
+	{
+		"Kabupaten/Kota": "KENDAL",
+		"Terkonfirmasi": "13.701000000000001",
+		"Dirawat": "1.0860000000000001",
+		"Sembuh": "11.977",
+		"Meninggal": "638",
+		"Suspek": "364",
+		"Suspek Discarded": "3.528"
+	},
+	{
+		"Kabupaten/Kota": "MAGELANG",
+		"Terkonfirmasi": "13.631",
+		"Dirawat": "1.337",
+		"Sembuh": "11.848000000000001",
+		"Meninggal": "446",
+		"Suspek": "309",
+		"Suspek Discarded": "2.1160000000000001"
+	},
+	{
+		"Kabupaten/Kota": "KEBUMEN",
+		"Terkonfirmasi": "13.589",
+		"Dirawat": "1.583",
+		"Sembuh": "11.461",
+		"Meninggal": "545",
+		"Suspek": "611",
+		"Suspek Discarded": "2.113"
+	},
+	{
+		"Kabupaten/Kota": "PURWOREJO",
+		"Terkonfirmasi": "12.763999999999999",
+		"Dirawat": "1.44",
+		"Sembuh": "11.018000000000001",
+		"Meninggal": "306",
+		"Suspek": "815",
+		"Suspek Discarded": "1.607"
+	},
+	{
+		"Kabupaten/Kota": "CILACAP",
+		"Terkonfirmasi": "12.32",
+		"Dirawat": "1.4139999999999999",
+		"Sembuh": "10.553000000000001",
+		"Meninggal": "353",
+		"Suspek": "1.018",
+		"Suspek Discarded": "1.5640000000000001"
+	},
+	{
+		"Kabupaten/Kota": "SRAGEN",
+		"Terkonfirmasi": "11.89",
+		"Dirawat": "1.1319999999999999",
+		"Sembuh": "9.8070000000000004",
+		"Meninggal": "951",
+		"Suspek": "288",
+		"Suspek Discarded": "1.3680000000000001"
+	},
+	{
+		"Kabupaten/Kota": "SEMARANG",
+		"Terkonfirmasi": "11.552",
+		"Dirawat": "1.1439999999999999",
+		"Sembuh": "9.7880000000000003",
+		"Meninggal": "620",
+		"Suspek": "271",
+		"Suspek Discarded": "1.8260000000000001"
+	},
+	{
+		"Kabupaten/Kota": "KARANGANYAR",
+		"Terkonfirmasi": "11.516",
+		"Dirawat": "1.1499999999999999",
+		"Sembuh": "9.6999999999999993",
+		"Meninggal": "666",
+		"Suspek": "722",
+		"Suspek Discarded": "2.16"
+	},
+	{
+		"Kabupaten/Kota": "TEGAL",
+		"Terkonfirmasi": "11.186",
+		"Dirawat": "983",
+		"Sembuh": "9.6219999999999999",
+		"Meninggal": "581",
+		"Suspek": "1.0109999999999999",
+		"Suspek Discarded": "4.5439999999999996"
+	},
+	{
+		"Kabupaten/Kota": "KOTA SURAKARTA",
+		"Terkonfirmasi": "10.89",
+		"Dirawat": "1.377",
+		"Sembuh": "8.8109999999999999",
+		"Meninggal": "702",
+		"Suspek": "443",
+		"Suspek Discarded": "1.9390000000000001"
+	},
+	{
+		"Kabupaten/Kota": "DEMAK",
+		"Terkonfirmasi": "10.337",
+		"Dirawat": "443",
+		"Sembuh": "8.766",
+		"Meninggal": "1.1279999999999999",
+		"Suspek": "102",
+		"Suspek Discarded": "4.0910000000000002"
+	},
+	{
+		"Kabupaten/Kota": "WONOSOBO",
+		"Terkonfirmasi": "9.18",
+		"Dirawat": "1.1279999999999999",
+		"Sembuh": "7.6470000000000002",
+		"Meninggal": "405",
+		"Suspek": "146",
+		"Suspek Discarded": "2.855"
+	},
+	{
+		"Kabupaten/Kota": "PEMALANG",
+		"Terkonfirmasi": "9.0220000000000002",
+		"Dirawat": "750",
+		"Sembuh": "7.7709999999999999",
+		"Meninggal": "501",
+		"Suspek": "540",
+		"Suspek Discarded": "3.5579999999999998"
+	},
+	{
+		"Kabupaten/Kota": "BLORA",
+		"Terkonfirmasi": "8.7669999999999995",
+		"Dirawat": "301",
+		"Sembuh": "8.0030000000000001",
+		"Meninggal": "463",
+		"Suspek": "573",
+		"Suspek Discarded": "1.754"
+	},
+	{
+		"Kabupaten/Kota": "TEMANGGUNG",
+		"Terkonfirmasi": "8.3070000000000004",
+		"Dirawat": "728",
+		"Sembuh": "7.3049999999999997",
+		"Meninggal": "274",
+		"Suspek": "206",
+		"Suspek Discarded": "1.3580000000000001"
+	},
+	{
+		"Kabupaten/Kota": "SUKOHARJO",
+		"Terkonfirmasi": "8.2520000000000007",
+		"Dirawat": "723",
+		"Sembuh": "6.75",
+		"Meninggal": "779",
+		"Suspek": "741",
+		"Suspek Discarded": "2.5870000000000002"
+	},
+	{
+		"Kabupaten/Kota": "WONOGIRI",
+		"Terkonfirmasi": "7.4550000000000001",
+		"Dirawat": "491",
+		"Sembuh": "6.2519999999999998",
+		"Meninggal": "712",
+		"Suspek": "167",
+		"Suspek Discarded": "1.8109999999999999"
+	},
+	{
+		"Kabupaten/Kota": "BOYOLALI",
+		"Terkonfirmasi": "7.4459999999999997",
+		"Dirawat": "988",
+		"Sembuh": "6.1959999999999997",
+		"Meninggal": "262",
+		"Suspek": "315",
+		"Suspek Discarded": "1.3069999999999999"
+	},
+	{
+		"Kabupaten/Kota": "BANJARNEGARA",
+		"Terkonfirmasi": "7.0140000000000002",
+		"Dirawat": "1.0569999999999999",
+		"Sembuh": "5.6749999999999998",
+		"Meninggal": "282",
+		"Suspek": "690",
+		"Suspek Discarded": "3.2469999999999999"
+	},
+	{
+		"Kabupaten/Kota": "BATANG",
+		"Terkonfirmasi": "6.7469999999999999",
+		"Dirawat": "498",
+		"Sembuh": "5.8659999999999997",
+		"Meninggal": "383",
+		"Suspek": "88",
+		"Suspek Discarded": "977"
+	},
+	{
+		"Kabupaten/Kota": "BREBES",
+		"Terkonfirmasi": "6.6550000000000002",
+		"Dirawat": "579",
+		"Sembuh": "5.306",
+		"Meninggal": "770",
+		"Suspek": "411",
+		"Suspek Discarded": "1.419"
+	},
+	{
+		"Kabupaten/Kota": "PATI",
+		"Terkonfirmasi": "6.5369999999999999",
+		"Dirawat": "351",
+		"Sembuh": "5.17",
+		"Meninggal": "1.016",
+		"Suspek": "160",
+		"Suspek Discarded": "2.133"
+	},
+	{
+		"Kabupaten/Kota": "PURBALINGGA",
+		"Terkonfirmasi": "6.0339999999999998",
+		"Dirawat": "474",
+		"Sembuh": "5.298",
+		"Meninggal": "262",
+		"Suspek": "472",
+		"Suspek Discarded": "1.395"
+	},
+	{
+		"Kabupaten/Kota": "PEKALONGAN",
+		"Terkonfirmasi": "5.9909999999999997",
+		"Dirawat": "624",
+		"Sembuh": "5.0090000000000003",
+		"Meninggal": "358",
+		"Suspek": "241",
+		"Suspek Discarded": "1.391"
+	},
+	{
+		"Kabupaten/Kota": "GROBOGAN",
+		"Terkonfirmasi": "5.2770000000000001",
+		"Dirawat": "479",
+		"Sembuh": "4.2210000000000001",
+		"Meninggal": "577",
+		"Suspek": "264",
+		"Suspek Discarded": "2.1629999999999998"
+	},
+	{
+		"Kabupaten/Kota": "REMBANG",
+		"Terkonfirmasi": "5.2590000000000003",
+		"Dirawat": "425",
+		"Sembuh": "4.2430000000000003",
+		"Meninggal": "591",
+		"Suspek": "15",
+		"Suspek Discarded": "864"
+	},
+	{
+		"Kabupaten/Kota": "KOTA PEKALONGAN",
+		"Terkonfirmasi": "4.7140000000000004",
+		"Dirawat": "233",
+		"Sembuh": "4.2380000000000004",
+		"Meninggal": "243",
+		"Suspek": "47",
+		"Suspek Discarded": "314"
+	},
+	{
+		"Kabupaten/Kota": "KOTA MAGELANG",
+		"Terkonfirmasi": "4.3449999999999998",
+		"Dirawat": "565",
+		"Sembuh": "3.625",
+		"Meninggal": "155",
+		"Suspek": "96",
+		"Suspek Discarded": "610"
+	},
+	{
+		"Kabupaten/Kota": "KOTA SALATIGA",
+		"Terkonfirmasi": "3.1989999999999998",
+		"Dirawat": "247",
+		"Sembuh": "2.8660000000000001",
+		"Meninggal": "86",
+		"Suspek": "119",
+		"Suspek Discarded": "636"
+	},
+	{
+		"Kabupaten/Kota": "KOTA TEGAL",
+		"Terkonfirmasi": "2.7229999999999999",
+		"Dirawat": "219",
+		"Sembuh": "2.3140000000000001",
+		"Meninggal": "190",
+		"Suspek": "181",
+		"Suspek Discarded": "512"
+	}
+	
+]
